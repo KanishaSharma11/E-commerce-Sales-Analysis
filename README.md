@@ -23,9 +23,6 @@ StockCode (Product Code)
 Description (Product Name)
 Quantity (Number of Units Sold)
 InvoiceDate (Transaction Timestamp)
-
 UnitPrice (Price per Unit)
-
 CustomerID (Unique Customer Identifier)
-
 Country (Customer Location)
