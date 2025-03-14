@@ -5,24 +5,40 @@ This project performs Exploratory Data Analysis (EDA) on an online retail datase
 
 The dataset for the above project is downloaded from https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
-Features & Insights
+**Features & Insights**
+
 ✅ Data Cleaning & Preprocessing – Handles missing values and filters valid transactions.
+
 📈 Sales Trends Over Time – Analyzes revenue growth with visualizations.
+
 🏆 Top Selling Products & Countries – Identifies popular items and high-revenue regions.
+
 🛒 Customer Purchasing Behavior – Examines spending patterns and distribution.
 
-Technologies Used
+**Technologies Used**
+
 Python – Data manipulation and analysis.
+
 Pandas & NumPy – Data wrangling and calculations.
+
 Matplotlib & Seaborn – Data visualization.
 
-Dataset
+**Dataset**
+
 The dataset contains information on e-commerce transactions, including:
+
 InvoiceNo (Transaction ID)
+
 StockCode (Product Code)
+
 Description (Product Name)
+
 Quantity (Number of Units Sold)
+
 InvoiceDate (Transaction Timestamp)
+
 UnitPrice (Price per Unit)
+
 CustomerID (Unique Customer Identifier)
+
 Country (Customer Location)
